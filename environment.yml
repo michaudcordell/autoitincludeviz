@@ -1,0 +1,9 @@
+name: autoitincludeviz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - networkx
+  - pyvis
+  - pyinstaller
